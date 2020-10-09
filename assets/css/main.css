@@ -1,5 +1,12 @@
 body {
-  background-color: #f62323b9;
+  height: 100vh;
+  background-image: url("../images/pexels-vincent-gerbouin-2263686.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 button {
