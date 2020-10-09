@@ -7,6 +7,16 @@ button {
   font-weight: bold;
   padding: 0.5em 1em;
 }
+.dice-container {
+  width: fit-content;
+  border: 5px solid black;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 15px;
+  margin-left: 70rem;
+}
 
 #result {
   font-size: 2em;
