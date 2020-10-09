@@ -1,4 +1,15 @@
 body {
-  display: flex;
-  background-color: aqua;
+  background-color: #f62323b9;
+}
+
+button {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0.5em 1em;
+}
+
+#result {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
 }
